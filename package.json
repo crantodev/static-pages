@@ -1,0 +1,21 @@
+{
+  "name": "builder",
+  "version": "0.0.1",
+  "description": "Builder of landing or static pages",
+  "author": "Daniel Mora <develop@danielmora.cr>",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-inject-partials": "^1.0.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1",
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
